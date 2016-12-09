@@ -20,13 +20,13 @@ Related Links
 
 * [Mozilla Developer Network - HTML] (https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [Mozilla Developer Network - JS] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Codecademy] (www.codecademy.com)
-* [CSS3 Generator] (www.css3generator.com)
-* [Can I Use] (www.caniuse.com)
-* [Find Me By IP] (www.fmbip.com)
-* [Node.js] (www.nodejs.org)
-* [NPM Registry] (www.npmjs.org)
-* [Babel](www.babeljs.io)
+* [Codecademy] (http://www.codecademy.com)
+* [CSS3 Generator] (http://www.css3generator.com)
+* [Can I Use] (http://www.caniuse.com)
+* [Find Me By IP] (http://www.fmbip.com)
+* [Node.js] (http://www.nodejs.org)
+* [NPM Registry] (http://www.npmjs.org)
+* [Babel](http://www.babeljs.io)
 * [Webpack](https://webpack.js.org/get-started/)
 
 
