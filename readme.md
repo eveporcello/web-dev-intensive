@@ -13,7 +13,7 @@ Week Two
 ------
 * Day 1: [Backbone and MVC] (http://github.com/moonhighway/javascript-ui)
 * Day 2: [Node.js Intro] (http://github.com/moonhighway/node-js-intro)
-* Day 3: [Node Intermediate] (http://github.com/moonhighway/node-js-stacked)
+* Day 3: [Node Intermediate] (http://github.com/eveporcello/node-day-2)
 
 Related Links
 ------
