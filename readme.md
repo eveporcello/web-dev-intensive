@@ -24,5 +24,9 @@ Related Links
 * [CSS3 Generator] (www.css3generator.com)
 * [Can I Use] (www.caniuse.com)
 * [Find Me By IP] (www.fmbip.com)
+* [Node.js] (www.nodejs.org)
+* [NPM Registry] (www.npmjs.org)
+* [Babel](www.babeljs.io)
+
 
 
